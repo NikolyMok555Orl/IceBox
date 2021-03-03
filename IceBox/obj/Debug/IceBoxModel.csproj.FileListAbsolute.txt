@@ -1,0 +1,9 @@
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\obj\Debug\IceBoxModel.csprojAssemblyReference.cache
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\obj\Debug\IceBoxModel.csproj.CoreCompileInputs.cache
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\bin\Debug\IceBox.exe.config
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\bin\Debug\IceBox.exe
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\bin\Debug\IceBox.pdb
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\obj\Debug\IceBox.exe
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\obj\Debug\IceBox.pdb
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\obj\Debug\IceBox.IceBoxForm.resources
+D:\yniver\AIT\LessonAndWork\IceBox\IceBox\obj\Debug\IceBoxModel.csproj.GenerateResource.cache
